@@ -1,0 +1,11 @@
+
+Simple script to mmap a file and hold it with a while loop. In this
+way the /proc/#/maps (etc) can be inspected.
+
+To build, run:
+
+  ./waf
+
+To install, run:
+
+  ./waf install
